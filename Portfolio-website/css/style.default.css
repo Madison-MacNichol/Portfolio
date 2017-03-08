@@ -136,17 +136,20 @@ p.social a i {
 p.social a.facebook {
   background-color: #4460ae;
 }
-p.social a.gplus {
-  background-color: #c21f25;
-}
-p.social a.twitter {
-  background-color: #3cf;
-}
-p.social a.instagram {
-  background-color: #cd4378;
-}
 p.social a.email {
   background-color: #4a7f45;
+}
+p.social a.blog {
+  background-color: #db7318;
+}
+p.social a.linkedin {
+  background-color: #0d109b;
+}
+p.social a.github {
+  background-color: #8318db;
+}
+p.social a.delicious {
+  background-color: #119b18;
 }
 .copyright {
   margin-top: 40px;
